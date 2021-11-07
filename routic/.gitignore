@@ -8,6 +8,8 @@
 #env file
 .env
 
+#emacs buffer
+*~
 
 # testing
 /coverage
