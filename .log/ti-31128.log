@@ -421,3 +421,13 @@ found 0 vulnerabilities
 [13:23:32.158] DirectoryWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/#Layout.js# 0:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
 [13:23:32.158] Elapsed:: 0.021931007504463196ms DirectoryWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/#Layout.js# 0:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
 [13:23:32.158] sysLog:: Elapsed:: 0.4683559983968735ms:: onTimerToUpdateChildWatches:: 0 undefined
+[14:00:05.961] sysLog:: onTimerToUpdateChildWatches:: 1
+[14:00:05.961] sysLog:: invokingWatchers:: Elapsed:: 0.22467900812625885ms:: 0
+[14:00:05.961] DirectoryWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/#Layout.js# 0:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[14:00:05.961] Elapsed:: 0.034780994057655334ms DirectoryWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/#Layout.js# 0:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[14:00:05.962] sysLog:: Elapsed:: 0.6142540127038956ms:: onTimerToUpdateChildWatches:: 0 undefined
+[14:00:14.650] sysLog:: onTimerToUpdateChildWatches:: 1
+[14:00:14.650] sysLog:: invokingWatchers:: Elapsed:: 0.22782300412654877ms:: 0
+[14:00:14.650] DirectoryWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/#Layout.js# 0:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[14:00:14.651] Elapsed:: 0.03848300874233246ms DirectoryWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/#Layout.js# 0:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[14:00:14.651] sysLog:: Elapsed:: 0.6912200003862381ms:: onTimerToUpdateChildWatches:: 0 undefined

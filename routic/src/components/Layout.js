@@ -38,12 +38,15 @@ function ColPannel({selectCallback}) {
                     setShip={setShip}
                   />
                   {
-                      (allert === true && ship === '001') &&
-                      
+                      (allert === true ) && (
+                          ((ship === '001')?
                       <div className="w-full mt-6 bg-red-500 text-white text-center">
                         High risk, use ice braker
-                      </div>
-                  
+                      </div>:
+                      <div className="w-full mt-6 bg-green-500 text-white text-center">
+                        Route is safe
+                      </div>)
+                      )
                   }
                 </div>
             }
@@ -58,18 +61,20 @@ function Controlls({routes, ships, time, selectCallback, setAllert, setShip}) {
     
     return(
         <div className="w-full">
+          <select  className="w-full mt-4"
+                   onChange={(e) => (e.target.value === "001")? selectCallback("selectedTime") : selectCallback("nonSelected") }
+          >
+            <option>---choose time---</option>
+            {generateOptions(time)}
+          </select>
           <select className="w-full mt-4"
                   onChange={(e) => (e.target.value === "001")? selectCallback("selected") : selectCallback("nonSelected") }
           >
             <option>---choose route---</option>
             {generateOptions(routes)}
           </select>
-          <select  className="w-full mt-4">
-            <option>---choose time---</option>
-            {generateOptions(time)}
-          </select>
           <select  className="w-full mt-4"
-                   onChange={(e) => (e.target.value === '001' )? setShip('001') : setShip(null)}
+                   onChange={(e) => (e.target.value === '001' )? setShip('001') : setShip(null)}w
           >
             <option>---choose ship---</option>
             {generateOptions(ships)}
