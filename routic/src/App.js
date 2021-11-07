@@ -14,11 +14,11 @@ function App() {
     const [background, setBackground] = useState(background_ice);
     
     const selectBackground = (selection) => {
-        if(selection == "selected") {
+        if(selection === "selected") {
             setBackground(background_selected);
         }
 
-        if(selection == "calculate") {
+        if(selection === "calculate") {
             setBackground(background_risk);
         }
     };

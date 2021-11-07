@@ -5090,3 +5090,456 @@ Info 5029 [05:30:54.456] Different program with same set of files
 Info 5030 [05:30:56.682] Before ensureProjectForOpenFiles:
 Info 5031 [05:30:56.682] After ensureProjectForOpenFiles:
 Info 5032 [05:30:56.682] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5033 [05:53:12.744] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5034 [05:53:12.745] Elapsed:: 0.11901000142097473ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5035 [05:53:12.995] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5036 [05:53:13.007] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 648 structureChanged: false structureIsReused:: Completely Elapsed: 11.408084005117416ms
+Info 5037 [05:53:13.007] Different program with same set of files
+Info 5038 [05:53:15.245] Before ensureProjectForOpenFiles:
+Info 5039 [05:53:15.246] After ensureProjectForOpenFiles:
+Info 5040 [05:53:15.246] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5041 [05:53:30.748] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5042 [05:53:30.748] Elapsed:: 0.13109200447797775ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5043 [05:53:30.999] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5044 [05:53:31.023] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 649 structureChanged: false structureIsReused:: Completely Elapsed: 23.7221489995718ms
+Info 5045 [05:53:31.023] Different program with same set of files
+Info 5046 [05:53:33.249] Before ensureProjectForOpenFiles:
+Info 5047 [05:53:33.250] After ensureProjectForOpenFiles:
+Info 5048 [05:53:33.250] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5049 [05:54:00.755] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5050 [05:54:00.756] Elapsed:: 0.13905400037765503ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5051 [05:54:01.006] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5052 [05:54:01.015] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 650 structureChanged: false structureIsReused:: Completely Elapsed: 8.717658996582031ms
+Info 5053 [05:54:01.015] Different program with same set of files
+Info 5054 [05:54:03.256] Before ensureProjectForOpenFiles:
+Info 5055 [05:54:03.256] After ensureProjectForOpenFiles:
+Info 5056 [05:54:03.256] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5057 [05:54:08.757] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5058 [05:54:08.757] Elapsed:: 0.12871800363063812ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5059 [05:54:09.007] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5060 [05:54:09.025] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 651 structureChanged: false structureIsReused:: Completely Elapsed: 17.869099996984005ms
+Info 5061 [05:54:09.025] Different program with same set of files
+Info 5062 [05:54:11.257] Before ensureProjectForOpenFiles:
+Info 5063 [05:54:11.257] After ensureProjectForOpenFiles:
+Info 5064 [05:54:11.257] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5065 [05:54:22.759] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5066 [05:54:22.759] Elapsed:: 0.08583500236272812ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5067 [05:54:23.010] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5068 [05:54:23.019] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 652 structureChanged: false structureIsReused:: Completely Elapsed: 8.945689998567104ms
+Info 5069 [05:54:23.019] Different program with same set of files
+Info 5070 [05:54:25.258] Before ensureProjectForOpenFiles:
+Info 5071 [05:54:25.258] After ensureProjectForOpenFiles:
+Info 5072 [05:54:25.259] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5073 [05:54:28.760] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5074 [05:54:28.761] Elapsed:: 0.17446400225162506ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5075 [05:54:29.011] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5076 [05:54:29.031] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 653 structureChanged: false structureIsReused:: Completely Elapsed: 19.695380993187428ms
+Info 5077 [05:54:29.031] Different program with same set of files
+Info 5078 [05:54:31.261] Before ensureProjectForOpenFiles:
+Info 5079 [05:54:31.261] After ensureProjectForOpenFiles:
+Info 5080 [05:54:31.261] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5081 [05:54:44.764] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5082 [05:54:44.765] Elapsed:: 0.07773299515247345ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5083 [05:54:45.015] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5084 [05:54:45.029] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 654 structureChanged: false structureIsReused:: Completely Elapsed: 14.177431002259254ms
+Info 5085 [05:54:45.029] Different program with same set of files
+Info 5086 [05:54:47.265] Before ensureProjectForOpenFiles:
+Info 5087 [05:54:47.265] After ensureProjectForOpenFiles:
+Info 5088 [05:54:47.265] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5089 [05:55:04.767] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5090 [05:55:04.767] Elapsed:: 0.18563800305128098ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5091 [05:55:05.017] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5092 [05:55:05.038] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 655 structureChanged: false structureIsReused:: Completely Elapsed: 20.038859002292156ms
+Info 5093 [05:55:05.038] Different program with same set of files
+Info 5094 [05:55:07.266] Before ensureProjectForOpenFiles:
+Info 5095 [05:55:07.267] After ensureProjectForOpenFiles:
+Info 5096 [05:55:07.267] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5097 [05:55:14.769] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5098 [05:55:14.770] Elapsed:: 0.11020900309085846ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5099 [05:55:15.020] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5100 [05:55:15.036] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 656 structureChanged: false structureIsReused:: Completely Elapsed: 15.26877000182867ms
+Info 5101 [05:55:15.036] Different program with same set of files
+Info 5102 [05:55:17.270] Before ensureProjectForOpenFiles:
+Info 5103 [05:55:17.270] After ensureProjectForOpenFiles:
+Info 5104 [05:55:17.270] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5105 [05:55:22.770] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5106 [05:55:22.770] Elapsed:: 0.05754899978637695ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5107 [05:55:23.021] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5108 [05:55:23.036] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 657 structureChanged: false structureIsReused:: Completely Elapsed: 15.388897001743317ms
+Info 5109 [05:55:23.036] Different program with same set of files
+Info 5110 [05:55:25.271] Before ensureProjectForOpenFiles:
+Info 5111 [05:55:25.271] After ensureProjectForOpenFiles:
+Info 5112 [05:55:25.271] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5113 [05:55:28.771] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5114 [05:55:28.771] Elapsed:: 0.05629199743270874ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5115 [05:55:29.021] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5116 [05:55:29.036] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 658 structureChanged: false structureIsReused:: Completely Elapsed: 14.306915998458862ms
+Info 5117 [05:55:29.036] Different program with same set of files
+Info 5118 [05:55:31.270] Before ensureProjectForOpenFiles:
+Info 5119 [05:55:31.270] After ensureProjectForOpenFiles:
+Info 5120 [05:55:31.270] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5121 [05:56:12.785] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5122 [05:56:12.785] Elapsed:: 0.0833209976553917ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5123 [05:56:13.034] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5124 [05:56:13.043] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 659 structureChanged: false structureIsReused:: Completely Elapsed: 8.592153996229172ms
+Info 5125 [05:56:13.043] Different program with same set of files
+Info 5126 [05:56:15.285] Before ensureProjectForOpenFiles:
+Info 5127 [05:56:15.285] After ensureProjectForOpenFiles:
+Info 5128 [05:56:15.285] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5129 [05:56:22.788] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5130 [05:56:22.788] Elapsed:: 0.07682600617408752ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5131 [05:56:23.039] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5132 [05:56:23.056] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 660 structureChanged: false structureIsReused:: Completely Elapsed: 16.34579300135374ms
+Info 5133 [05:56:23.056] Different program with same set of files
+Info 5134 [05:56:25.290] Before ensureProjectForOpenFiles:
+Info 5135 [05:56:25.290] After ensureProjectForOpenFiles:
+Info 5136 [05:56:25.290] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5137 [05:56:40.796] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5138 [05:56:40.796] Elapsed:: 0.08213400095701218ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5139 [05:56:41.046] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5140 [05:56:41.061] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 661 structureChanged: false structureIsReused:: Completely Elapsed: 14.82625599950552ms
+Info 5141 [05:56:41.062] Different program with same set of files
+Info 5142 [05:56:43.297] Before ensureProjectForOpenFiles:
+Info 5143 [05:56:43.297] After ensureProjectForOpenFiles:
+Info 5144 [05:56:43.297] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5145 [05:56:52.801] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5146 [05:56:52.801] Elapsed:: 0.05566300451755524ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5147 [05:56:53.051] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5148 [05:56:53.066] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 662 structureChanged: false structureIsReused:: Completely Elapsed: 15.077544994652271ms
+Info 5149 [05:56:53.067] Different program with same set of files
+Info 5150 [05:56:55.301] Before ensureProjectForOpenFiles:
+Info 5151 [05:56:55.301] After ensureProjectForOpenFiles:
+Info 5152 [05:56:55.301] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5153 [05:57:00.803] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5154 [05:57:00.803] Elapsed:: 0.08492700010538101ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5155 [05:57:01.054] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5156 [05:57:01.069] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 663 structureChanged: false structureIsReused:: Completely Elapsed: 15.060782998800278ms
+Info 5157 [05:57:01.070] Different program with same set of files
+Info 5158 [05:57:03.304] Before ensureProjectForOpenFiles:
+Info 5159 [05:57:03.304] After ensureProjectForOpenFiles:
+Info 5160 [05:57:03.304] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5161 [05:57:34.814] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5162 [05:57:34.814] Elapsed:: 0.05782900005578995ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5163 [05:57:35.064] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5164 [05:57:35.081] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 664 structureChanged: false structureIsReused:: Completely Elapsed: 16.795221000909805ms
+Info 5165 [05:57:35.081] Different program with same set of files
+Info 5166 [05:57:37.314] Before ensureProjectForOpenFiles:
+Info 5167 [05:57:37.314] After ensureProjectForOpenFiles:
+Info 5168 [05:57:37.314] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5169 [05:57:52.820] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5170 [05:57:52.820] Elapsed:: 0.05775900185108185ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5171 [05:57:53.070] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5172 [05:57:53.082] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 665 structureChanged: false structureIsReused:: Completely Elapsed: 11.64750000089407ms
+Info 5173 [05:57:53.082] Different program with same set of files
+Info 5174 [05:57:55.320] Before ensureProjectForOpenFiles:
+Info 5175 [05:57:55.320] After ensureProjectForOpenFiles:
+Info 5176 [05:57:55.320] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5177 [05:57:58.822] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5178 [05:57:58.822] Elapsed:: 0.08031699806451797ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5179 [05:57:59.073] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5180 [05:57:59.090] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 666 structureChanged: false structureIsReused:: Completely Elapsed: 16.969753995537758ms
+Info 5181 [05:57:59.090] Different program with same set of files
+Info 5182 [05:58:01.324] Before ensureProjectForOpenFiles:
+Info 5183 [05:58:01.324] After ensureProjectForOpenFiles:
+Info 5184 [05:58:01.324] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5185 [05:58:10.827] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5186 [05:58:10.827] Elapsed:: 0.08108600229024887ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5187 [05:58:11.077] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5188 [05:58:11.090] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 667 structureChanged: false structureIsReused:: Completely Elapsed: 13.654389001429081ms
+Info 5189 [05:58:11.090] Different program with same set of files
+Info 5190 [05:58:13.327] Before ensureProjectForOpenFiles:
+Info 5191 [05:58:13.327] After ensureProjectForOpenFiles:
+Info 5192 [05:58:13.327] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5193 [05:58:14.827] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5194 [05:58:14.827] Elapsed:: 0.0838090032339096ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5195 [05:58:15.078] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5196 [05:58:15.094] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 668 structureChanged: false structureIsReused:: Completely Elapsed: 15.692077994346619ms
+Info 5197 [05:58:15.094] Different program with same set of files
+Info 5198 [05:58:17.328] Before ensureProjectForOpenFiles:
+Info 5199 [05:58:17.329] After ensureProjectForOpenFiles:
+Info 5200 [05:58:17.329] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5201 [05:58:18.829] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5202 [05:58:18.829] Elapsed:: 0.08150399476289749ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5203 [05:58:19.080] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5204 [05:58:19.097] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 669 structureChanged: false structureIsReused:: Completely Elapsed: 16.65421199798584ms
+Info 5205 [05:58:19.097] Different program with same set of files
+Info 5206 [05:58:21.330] Before ensureProjectForOpenFiles:
+Info 5207 [05:58:21.330] After ensureProjectForOpenFiles:
+Info 5208 [05:58:21.330] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5209 [05:58:40.838] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5210 [05:58:40.838] Elapsed:: 0.05678100138902664ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5211 [05:58:41.088] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5212 [05:58:41.098] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 670 structureChanged: false structureIsReused:: Completely Elapsed: 10.171544000506401ms
+Info 5213 [05:58:41.098] Different program with same set of files
+Info 5214 [05:58:43.338] Before ensureProjectForOpenFiles:
+Info 5215 [05:58:43.338] After ensureProjectForOpenFiles:
+Info 5216 [05:58:43.338] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5217 [05:59:06.847] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5218 [05:59:06.848] Elapsed:: 0.08206300437450409ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5219 [05:59:07.098] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5220 [05:59:07.116] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 671 structureChanged: false structureIsReused:: Completely Elapsed: 17.6560849994421ms
+Info 5221 [05:59:07.116] Different program with same set of files
+Info 5222 [05:59:09.348] Before ensureProjectForOpenFiles:
+Info 5223 [05:59:09.348] After ensureProjectForOpenFiles:
+Info 5224 [05:59:09.348] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5225 [05:59:14.852] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5226 [05:59:14.852] Elapsed:: 0.08911799639463425ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5227 [05:59:15.103] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5228 [05:59:15.118] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 672 structureChanged: false structureIsReused:: Completely Elapsed: 14.702008001506329ms
+Info 5229 [05:59:15.118] Different program with same set of files
+Info 5230 [05:59:17.353] Before ensureProjectForOpenFiles:
+Info 5231 [05:59:17.353] After ensureProjectForOpenFiles:
+Info 5232 [05:59:17.353] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5233 [05:59:28.858] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5234 [05:59:28.858] Elapsed:: 0.09253999590873718ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5235 [05:59:29.109] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5236 [05:59:29.130] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 673 structureChanged: false structureIsReused:: Completely Elapsed: 20.627273000776768ms
+Info 5237 [05:59:29.130] Different program with same set of files
+Info 5238 [05:59:31.359] Before ensureProjectForOpenFiles:
+Info 5239 [05:59:31.359] After ensureProjectForOpenFiles:
+Info 5240 [05:59:31.359] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5241 [05:59:42.863] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5242 [05:59:42.863] Elapsed:: 0.08024699985980988ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5243 [05:59:43.114] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5244 [05:59:43.133] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 674 structureChanged: false structureIsReused:: Completely Elapsed: 18.44235799461603ms
+Info 5245 [05:59:43.133] Different program with same set of files
+Info 5246 [05:59:45.364] Before ensureProjectForOpenFiles:
+Info 5247 [05:59:45.364] After ensureProjectForOpenFiles:
+Info 5248 [05:59:45.364] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5249 [06:00:44.882] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5250 [06:00:44.883] Elapsed:: 0.05761899799108505ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5251 [06:00:45.133] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5252 [06:00:45.147] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 675 structureChanged: false structureIsReused:: Completely Elapsed: 13.989417999982834ms
+Info 5253 [06:00:45.147] Different program with same set of files
+Info 5254 [06:00:47.383] Before ensureProjectForOpenFiles:
+Info 5255 [06:00:47.383] After ensureProjectForOpenFiles:
+Info 5256 [06:00:47.384] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5257 [06:01:40.899] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5258 [06:01:40.899] Elapsed:: 0.07961899787187576ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5259 [06:01:41.149] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5260 [06:01:41.160] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 676 structureChanged: false structureIsReused:: Completely Elapsed: 11.66873100399971ms
+Info 5261 [06:01:41.160] Different program with same set of files
+Info 5262 [06:01:43.399] Before ensureProjectForOpenFiles:
+Info 5263 [06:01:43.399] After ensureProjectForOpenFiles:
+Info 5264 [06:01:43.399] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5265 [06:01:44.900] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5266 [06:01:44.900] Elapsed:: 0.08073599636554718ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5267 [06:01:45.150] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5268 [06:01:45.174] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 677 structureChanged: false structureIsReused:: Completely Elapsed: 24.43844199925661ms
+Info 5269 [06:01:45.174] Different program with same set of files
+Info 5270 [06:01:47.400] Before ensureProjectForOpenFiles:
+Info 5271 [06:01:47.400] After ensureProjectForOpenFiles:
+Info 5272 [06:01:47.400] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5273 [06:02:04.905] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5274 [06:02:04.905] Elapsed:: 0.058876000344753265ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5275 [06:02:05.156] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5276 [06:02:05.170] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 678 structureChanged: false structureIsReused:: Completely Elapsed: 14.048782996833324ms
+Info 5277 [06:02:05.170] Different program with same set of files
+Info 5278 [06:02:07.406] Before ensureProjectForOpenFiles:
+Info 5279 [06:02:07.406] After ensureProjectForOpenFiles:
+Info 5280 [06:02:07.406] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5281 [06:02:12.907] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5282 [06:02:12.907] Elapsed:: 0.08862899988889694ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5283 [06:02:13.156] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5284 [06:02:13.177] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 679 structureChanged: false structureIsReused:: Completely Elapsed: 20.4234060049057ms
+Info 5285 [06:02:13.177] Different program with same set of files
+Info 5286 [06:02:15.407] Before ensureProjectForOpenFiles:
+Info 5287 [06:02:15.407] After ensureProjectForOpenFiles:
+Info 5288 [06:02:15.407] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5289 [06:02:26.914] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5290 [06:02:26.914] Elapsed:: 0.05629199743270874ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5291 [06:02:27.164] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5292 [06:02:27.179] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 680 structureChanged: false structureIsReused:: Completely Elapsed: 14.623227000236511ms
+Info 5293 [06:02:27.179] Different program with same set of files
+Info 5294 [06:02:29.414] Before ensureProjectForOpenFiles:
+Info 5295 [06:02:29.414] After ensureProjectForOpenFiles:
+Info 5296 [06:02:29.414] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5297 [06:02:34.917] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5298 [06:02:34.917] Elapsed:: 0.06683800369501114ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5299 [06:02:35.167] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5300 [06:02:35.179] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 681 structureChanged: false structureIsReused:: Completely Elapsed: 11.66049000620842ms
+Info 5301 [06:02:35.179] Different program with same set of files
+Info 5302 [06:02:37.417] Before ensureProjectForOpenFiles:
+Info 5303 [06:02:37.417] After ensureProjectForOpenFiles:
+Info 5304 [06:02:37.417] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5305 [06:02:44.920] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5306 [06:02:44.920] Elapsed:: 0.04854000359773636ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5307 [06:02:45.171] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5308 [06:02:45.179] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 682 structureChanged: false structureIsReused:: Completely Elapsed: 8.416992001235485ms
+Info 5309 [06:02:45.179] Different program with same set of files
+Info 5310 [06:02:47.421] Before ensureProjectForOpenFiles:
+Info 5311 [06:02:47.421] After ensureProjectForOpenFiles:
+Info 5312 [06:02:47.421] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5313 [06:05:46.061] DirectoryWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/#Layout.js# 0:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 5314 [06:05:46.062] Elapsed:: 0.727745994925499ms DirectoryWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/#Layout.js# 0:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 5315 [06:06:12.977] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5316 [06:06:12.977] Elapsed:: 0.04867899417877197ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5317 [06:06:13.228] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5318 [06:06:13.244] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 683 structureChanged: false structureIsReused:: Completely Elapsed: 16.280979998409748ms
+Info 5319 [06:06:13.244] Different program with same set of files
+Info 5320 [06:06:13.337] DirectoryWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/#Layout.js# 0:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 5321 [06:06:13.337] Elapsed:: 0.04399999976158142ms DirectoryWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/#Layout.js# 0:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 5322 [06:06:15.478] Before ensureProjectForOpenFiles:
+Info 5323 [06:06:15.478] After ensureProjectForOpenFiles:
+Info 5324 [06:06:15.478] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5325 [06:06:28.982] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5326 [06:06:28.982] Elapsed:: 0.0825520008802414ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5327 [06:06:29.232] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5328 [06:06:29.250] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 684 structureChanged: false structureIsReused:: Completely Elapsed: 17.505717001855373ms
+Info 5329 [06:06:29.250] Different program with same set of files
+Info 5330 [06:06:31.482] Before ensureProjectForOpenFiles:
+Info 5331 [06:06:31.482] After ensureProjectForOpenFiles:
+Info 5332 [06:06:31.482] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5333 [06:06:54.985] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5334 [06:06:54.985] Elapsed:: 0.08101599663496017ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5335 [06:06:55.235] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5336 [06:06:55.266] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 685 structureChanged: false structureIsReused:: Completely Elapsed: 30.75935599952936ms
+Info 5337 [06:06:55.266] Different program with same set of files
+Info 5338 [06:06:57.484] Before ensureProjectForOpenFiles:
+Info 5339 [06:06:57.485] After ensureProjectForOpenFiles:
+Info 5340 [06:06:57.485] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5341 [06:08:07.317] DirectoryWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/#Layout.js# 0:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 5342 [06:08:07.317] Elapsed:: 0.05622299760580063ms DirectoryWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/#Layout.js# 0:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 5343 [06:08:12.746] DirectoryWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/#Layout.js# 0:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 5344 [06:08:12.746] Elapsed:: 0.037366002798080444ms DirectoryWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/#Layout.js# 0:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components 1 undefined Project: /dev/null/inferredProject1* WatchType: Failed Lookup Locations
+Info 5345 [06:08:13.001] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5346 [06:08:13.002] Elapsed:: 0.08723200112581253ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5347 [06:08:13.252] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5348 [06:08:13.262] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 686 structureChanged: false structureIsReused:: Completely Elapsed: 10.223296001553535ms
+Info 5349 [06:08:13.262] Different program with same set of files
+Info 5350 [06:08:15.501] Before ensureProjectForOpenFiles:
+Info 5351 [06:08:15.501] After ensureProjectForOpenFiles:
+Info 5352 [06:08:15.502] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5353 [06:09:39.023] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5354 [06:09:39.023] Elapsed:: 0.05391699820756912ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5355 [06:09:39.272] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5356 [06:09:39.291] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 687 structureChanged: false structureIsReused:: Completely Elapsed: 18.35163400322199ms
+Info 5357 [06:09:39.291] Different program with same set of files
+Info 5358 [06:09:41.523] Before ensureProjectForOpenFiles:
+Info 5359 [06:09:41.523] After ensureProjectForOpenFiles:
+Info 5360 [06:09:41.524] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5361 [06:10:14.059] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5362 [06:10:14.082] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 688 structureChanged: false structureIsReused:: Completely Elapsed: 22.393208995461464ms
+Info 5363 [06:10:14.082] Different program with same set of files
+Info 5364 [06:10:18.081] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5365 [06:10:18.099] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 689 structureChanged: false structureIsReused:: Completely Elapsed: 18.124439999461174ms
+Info 5366 [06:10:18.099] Different program with same set of files
+Info 5367 [06:10:27.037] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5368 [06:10:27.037] Elapsed:: 0.0826219990849495ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5369 [06:10:27.287] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5370 [06:10:27.300] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 690 structureChanged: false structureIsReused:: Completely Elapsed: 13.188198000192642ms
+Info 5371 [06:10:27.300] Different program with same set of files
+Info 5372 [06:10:29.537] Before ensureProjectForOpenFiles:
+Info 5373 [06:10:29.537] After ensureProjectForOpenFiles:
+Info 5374 [06:10:29.537] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5375 [06:10:49.040] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5376 [06:10:49.040] Elapsed:: 0.05398699641227722ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5377 [06:10:49.291] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5378 [06:10:49.322] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 691 structureChanged: false structureIsReused:: Completely Elapsed: 31.25264599919319ms
+Info 5379 [06:10:49.323] Different program with same set of files
+Info 5380 [06:10:51.541] Before ensureProjectForOpenFiles:
+Info 5381 [06:10:51.541] After ensureProjectForOpenFiles:
+Info 5382 [06:10:51.541] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5383 [06:11:17.050] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5384 [06:11:17.050] Elapsed:: 0.06914300471544266ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5385 [06:11:17.300] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5386 [06:11:17.325] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 692 structureChanged: false structureIsReused:: Completely Elapsed: 25.20194600522518ms
+Info 5387 [06:11:17.325] Different program with same set of files
+Info 5388 [06:11:19.550] Before ensureProjectForOpenFiles:
+Info 5389 [06:11:19.550] After ensureProjectForOpenFiles:
+Info 5390 [06:11:19.550] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5391 [06:12:37.069] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5392 [06:12:37.069] Elapsed:: 0.11607600003480911ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5393 [06:12:37.320] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5394 [06:12:37.332] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 693 structureChanged: false structureIsReused:: Completely Elapsed: 12.435729004442692ms
+Info 5395 [06:12:37.332] Different program with same set of files
+Info 5396 [06:12:39.570] Before ensureProjectForOpenFiles:
+Info 5397 [06:12:39.571] After ensureProjectForOpenFiles:
+Info 5398 [06:12:39.571] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5399 [06:13:23.077] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5400 [06:13:23.077] Elapsed:: 0.04777200520038605ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5401 [06:13:23.327] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5402 [06:13:23.329] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 694 structureChanged: false structureIsReused:: Completely Elapsed: 1.223480001091957ms
+Info 5403 [06:13:25.577] Before ensureProjectForOpenFiles:
+Info 5404 [06:13:25.577] After ensureProjectForOpenFiles:
+Info 5405 [06:13:25.577] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5406 [06:15:55.105] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5407 [06:15:55.105] Elapsed:: 0.07026000320911407ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5408 [06:15:55.356] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5409 [06:15:55.376] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 695 structureChanged: false structureIsReused:: Completely Elapsed: 20.527819000184536ms
+Info 5410 [06:15:55.377] Different program with same set of files
+Info 5411 [06:15:57.606] Before ensureProjectForOpenFiles:
+Info 5412 [06:15:57.606] After ensureProjectForOpenFiles:
+Info 5413 [06:15:57.606] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5414 [06:17:39.127] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5415 [06:17:39.127] Elapsed:: 0.05335899442434311ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5416 [06:17:39.376] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5417 [06:17:39.387] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 696 structureChanged: false structureIsReused:: Completely Elapsed: 10.785169996321201ms
+Info 5418 [06:17:39.387] Different program with same set of files
+Info 5419 [06:17:41.628] Before ensureProjectForOpenFiles:
+Info 5420 [06:17:41.628] After ensureProjectForOpenFiles:
+Info 5421 [06:17:41.628] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5422 [06:18:01.135] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5423 [06:18:01.135] Elapsed:: 0.07019099593162537ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5424 [06:18:01.385] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5425 [06:18:01.402] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 697 structureChanged: false structureIsReused:: Completely Elapsed: 17.53574800491333ms
+Info 5426 [06:18:01.402] Different program with same set of files
+Info 5427 [06:18:03.635] Before ensureProjectForOpenFiles:
+Info 5428 [06:18:03.635] After ensureProjectForOpenFiles:
+Info 5429 [06:18:03.635] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5430 [06:21:35.205] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5431 [06:21:35.205] Elapsed:: 0.05622199922800064ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5432 [06:21:35.456] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5433 [06:21:35.468] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 698 structureChanged: false structureIsReused:: Completely Elapsed: 11.562781997025013ms
+Info 5434 [06:21:35.468] Different program with same set of files
+Info 5435 [06:21:37.706] Before ensureProjectForOpenFiles:
+Info 5436 [06:21:37.706] After ensureProjectForOpenFiles:
+Info 5437 [06:21:37.706] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5438 [06:22:19.219] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5439 [06:22:19.219] Elapsed:: 0.051541998982429504ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5440 [06:22:19.469] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5441 [06:22:19.485] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 699 structureChanged: false structureIsReused:: Completely Elapsed: 16.13529099524021ms
+Info 5442 [06:22:19.485] Different program with same set of files
+Info 5443 [06:22:21.719] Before ensureProjectForOpenFiles:
+Info 5444 [06:22:21.719] After ensureProjectForOpenFiles:
+Info 5445 [06:22:21.719] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5446 [06:23:29.244] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5447 [06:23:29.244] Elapsed:: 0.07095900177955627ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5448 [06:23:29.495] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5449 [06:23:29.517] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 700 structureChanged: false structureIsReused:: Completely Elapsed: 21.82854200154543ms
+Info 5450 [06:23:29.517] Different program with same set of files
+Info 5451 [06:23:31.745] Before ensureProjectForOpenFiles:
+Info 5452 [06:23:31.745] After ensureProjectForOpenFiles:
+Info 5453 [06:23:31.745] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5454 [06:23:45.249] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5455 [06:23:45.249] Elapsed:: 0.09295900166034698ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5456 [06:23:45.498] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5457 [06:23:45.520] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 701 structureChanged: false structureIsReused:: Completely Elapsed: 21.93113899976015ms
+Info 5458 [06:23:45.520] Different program with same set of files
+Info 5459 [06:23:47.749] Before ensureProjectForOpenFiles:
+Info 5460 [06:23:47.749] After ensureProjectForOpenFiles:
+Info 5461 [06:23:47.749] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5462 [06:23:53.252] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5463 [06:23:53.252] Elapsed:: 0.06977100670337677ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5464 [06:23:53.502] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5465 [06:23:53.521] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 702 structureChanged: false structureIsReused:: Completely Elapsed: 19.08000899851322ms
+Info 5466 [06:23:53.521] Different program with same set of files
+Info 5467 [06:23:55.752] Before ensureProjectForOpenFiles:
+Info 5468 [06:23:55.752] After ensureProjectForOpenFiles:
+Info 5469 [06:23:55.752] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5470 [06:24:07.257] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5471 [06:24:07.257] Elapsed:: 0.07675500214099884ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5472 [06:24:07.508] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5473 [06:24:07.517] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 703 structureChanged: false structureIsReused:: Completely Elapsed: 8.86362700164318ms
+Info 5474 [06:24:07.517] Different program with same set of files
+Info 5475 [06:24:09.758] Before ensureProjectForOpenFiles:
+Info 5476 [06:24:09.758] After ensureProjectForOpenFiles:
+Info 5477 [06:24:09.758] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js
+Info 5478 [10:26:57.187] FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5479 [10:26:57.187] Elapsed:: 0.07968899607658386ms FileWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 1:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/Layout.js 500 undefined WatchType: Closed Script info
+Info 5480 [10:26:57.438] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 5481 [10:26:57.457] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 704 structureChanged: false structureIsReused:: Completely Elapsed: 18.188833996653557ms
+Info 5482 [10:26:57.457] Different program with same set of files
+Info 5483 [10:26:59.688] Before ensureProjectForOpenFiles:
+Info 5484 [10:26:59.688] After ensureProjectForOpenFiles:
+Info 5485 [10:26:59.688] got projects updated in background, updating diagnostics for /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/App.js

@@ -1,4 +1,4 @@
-import {useState} from 'react';
+import {useState, useEffect} from 'react';
 import arrow from '../images/arrow.png';
 
 export default function Layout({children, selectCallback}) {
@@ -16,9 +16,11 @@ export default function Layout({children, selectCallback}) {
 
 function ColPannel({selectCallback}) {
     const [show, setShow] = useState(true);
+
     
     return(
         <div
+          className="block"
         >
 
             {
@@ -32,12 +34,13 @@ function ColPannel({selectCallback}) {
                     />
                 </div>
             }
-
-          <img
-            className="w-8 h-8"
+          <div>
+            <img
+            className="w-16 h-16 absolute bg-white rounded-md p-3 mt-6 ml-80"
             src={arrow}
             onClick={() => setShow(!show)}
           />
+          </div>
         </div>
     );
 }
@@ -46,7 +49,7 @@ function Controlls({routes, ships, time, selectCallback}) {
     return(
         <div className="w-full">
           <select className="w-full mt-4"
-                  onChange={(e) => (e.target.value == "001")? selectCallback("selected") : null }
+                  onChange={(e) => (e.target.value === "001")? selectCallback("selected") : null }
           >
             <option></option>
             {generateOptions(routes)}

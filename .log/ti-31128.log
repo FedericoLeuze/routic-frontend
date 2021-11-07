@@ -331,3 +331,23 @@ found 0 vulnerabilities
     {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":[],"kind":"action::set"}
 [05:26:14.398] Response has been sent.
 [05:26:14.398] No new typings were requested as a result of typings discovery
+[06:05:46.060] sysLog:: onTimerToUpdateChildWatches:: 1
+[06:05:46.060] sysLog:: invokingWatchers:: Elapsed:: 0.2748259976506233ms:: 0
+[06:05:46.060] DirectoryWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/#Layout.js# 0:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[06:05:46.060] Elapsed:: 0.03149800002574921ms DirectoryWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/#Layout.js# 0:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[06:05:46.061] sysLog:: Elapsed:: 0.7741210013628006ms:: onTimerToUpdateChildWatches:: 0 undefined
+[06:06:13.335] sysLog:: onTimerToUpdateChildWatches:: 1
+[06:06:13.336] sysLog:: invokingWatchers:: Elapsed:: 0.11544699966907501ms:: 0
+[06:06:13.336] DirectoryWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/#Layout.js# 0:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[06:06:13.336] Elapsed:: 0.015015996992588043ms DirectoryWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/#Layout.js# 0:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[06:06:13.336] sysLog:: Elapsed:: 0.290120005607605ms:: onTimerToUpdateChildWatches:: 0 undefined
+[06:08:07.316] sysLog:: onTimerToUpdateChildWatches:: 1
+[06:08:07.317] sysLog:: invokingWatchers:: Elapsed:: 0.1676890030503273ms:: 0
+[06:08:07.317] DirectoryWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/#Layout.js# 0:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[06:08:07.317] Elapsed:: 0.023745998740196228ms DirectoryWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/#Layout.js# 0:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[06:08:07.317] sysLog:: Elapsed:: 0.5280000045895576ms:: onTimerToUpdateChildWatches:: 0 undefined
+[06:08:12.746] sysLog:: onTimerToUpdateChildWatches:: 1
+[06:08:12.746] sysLog:: invokingWatchers:: Elapsed:: 0.19276200234889984ms:: 0
+[06:08:12.746] DirectoryWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/#Layout.js# 0:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[06:08:12.746] Elapsed:: 0.022978000342845917ms DirectoryWatcher:: Triggered with /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components/#Layout.js# 0:: WatchInfo: /home/bombadil/Documents/Hackathon/webapp_frontend/routic/src/components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[06:08:12.746] sysLog:: Elapsed:: 0.5323999971151352ms:: onTimerToUpdateChildWatches:: 0 undefined
