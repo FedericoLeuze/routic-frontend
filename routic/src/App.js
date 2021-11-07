@@ -12,8 +12,12 @@ require('dotenv').config();
 
 function App() {
     const [background, setBackground] = useState(background_ice);
+
     
     const selectBackground = (selection) => {
+        if(selection === 'nonSelected') {
+            setBackground(background_ice);
+        }
         if(selection === "selected") {
             setBackground(background_selected);
         }
@@ -27,11 +31,11 @@ function App() {
       <div className="overflow-hidden">
         <Layout
           selectCallback={selectBackground}
-        >
-      </Layout>
+        />
         <Background
           backgroundImage={background}
         />
+        
     </div>
   );
 }
